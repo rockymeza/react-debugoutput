@@ -1,0 +1,25 @@
+{
+  "name": "react-debugoutput",
+  "version": "0.0.0",
+  "description": "A Debug component",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react-component",
+    "debug"
+  ],
+  "author": "Rocky Meza <rockymeza@gmail.com>",
+  "license": "BSD",
+  "dependencies": {
+    "react": "^0.13.2"
+  },
+  "devDependencies": {
+    "babel-core": "^5.1.10",
+    "babel-loader": "^5.0.0",
+    "react-hot-loader": "^1.2.5",
+    "webpack": "^1.8.5",
+    "webpack-dev-server": "^1.8.0"
+  }
+}
